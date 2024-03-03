@@ -3,6 +3,7 @@ package com.example.csiec.controller;
 import com.example.csiec.pojo.Result;
 import com.example.csiec.pojo.Teacher;
 import com.example.csiec.service.TeacherService;
+import com.example.csiec.utils.ChatGPTApi;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
